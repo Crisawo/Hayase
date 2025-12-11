@@ -1,0 +1,10 @@
+{
+  "name": "Example Source",
+  "id": "example.source",
+  "version": "1.0.0",
+  "description": "A simple example Hayase extension.",
+  "author": "ChatGPT",
+  "language": "en",
+  "type": "js",
+  "entry": "extension.js"
+}
